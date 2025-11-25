@@ -58,8 +58,8 @@ github.com/yyle88/mutexmap v1.0.15 h1:vqwtvomfzddcuBNg8hofWnILRFK2STJhWU7AufuNS5
 github.com/yyle88/mutexmap v1.0.15/go.mod h1:NqwsKlK+NkL18i4BepeyCgtenXuw4N5UUnEX9XBfPA8=
 github.com/yyle88/rese v0.0.12 h1:3cbPm5XmqPiRK2yj+nAUl50ci+9t8pEYOAVp+cKOX8w=
 github.com/yyle88/rese v0.0.12/go.mod h1:FGfU5brwe1PcyRobQh40/9gse51QVfJOLmBV/0DXSfA=
-github.com/yyle88/runpath v1.0.24 h1:jyFwGS0RbgOJS1dblMh1DBWckRN+MVomTT89cgmsFAw=
-github.com/yyle88/runpath v1.0.24/go.mod h1:j1JvgyOK3WLRaEq6UHIiAp1voenfC5m6oGEav7ftBx4=
+github.com/yyle88/runpath v1.0.25 h1:WfeVd/7pLxpCvMhrLptKYNaplApJldveY9O7un67d3U=
+github.com/yyle88/runpath v1.0.25/go.mod h1:Iv9y6waZR95gUMMsK96WNAbF3wknfoPUd7xuQf/+CNY=
 github.com/yyle88/zaplog v0.0.27 h1:Bd/XWeAeRDEsFdtHphEqPK+W3M9WNd/dzf5x6YXeSkY=
 github.com/yyle88/zaplog v0.0.27/go.mod h1:0BOxIR1lFh4vdiCyR5zuj4DmTFK36FbpjOWAdjMwSDU=
 go.opentelemetry.io/auto/sdk v1.2.1 h1:jXsnJ4Lmnqd11kwkBV2LgLoFMZKizbCi5fNZ/ipaZ64=
