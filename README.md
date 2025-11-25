@@ -130,7 +130,7 @@ go test -v -run TestGenerateXChanges # Generate demos-toolchain-trees.md
 |    trace    |   https://github.com/orzkratos/tracekratos-demos    |
 |  unittest   |    https://github.com/orzkratos/testkratos-demos    |
 | vue3-client |    https://github.com/orzkratos/vue3kratos-demos    |
-|    wire     |   https://github.com/orzkratos/wire2kratos-demos    |
+|    wire     |   https://github.com/orzkratos/wirekratos-demos    |
 |     zap     |    https://github.com/orzkratos/zapkratos-demos     |
 | zap-zh-hans |   https://github.com/orzkratos/zapzhkratos-demos    |
 |   migrate   |  https://github.com/orzkratos/migratekratos-demos   |
@@ -138,7 +138,7 @@ go test -v -run TestGenerateXChanges # Generate demos-toolchain-trees.md
 | supervisors | https://github.com/orzkratos/supervisorkratos-demos |
 
 <!-- TEMPLATE (EN) BEGIN: STANDARD PROJECT FOOTER -->
-<!-- VERSION 2025-11-20 04:26:32.402216 +0000 UTC -->
+<!-- VERSION 2025-11-25 03:52:28.131064 +0000 UTC -->
 
 ## 📄 License
 
@@ -172,7 +172,7 @@ New code contributions, follow this process:
 4. **Branch**: Create a feature branch (`git checkout -b feature/xxx`).
 5. **Code**: Implement the changes with comprehensive tests
 6. **Testing**: (Golang project) Ensure tests pass (`go test ./...`) and follow Go code style conventions
-7. **Documentation**: Update documentation to support client-facing changes and use significant commit messages
+7. **Documentation**: Update documentation to support client-facing changes
 8. **Stage**: Stage changes (`git add .`)
 9. **Commit**: Commit changes (`git commit -m "Add feature xxx"`) ensuring backward compatible code
 10. **Push**: Push to the branch (`git push origin feature/xxx`).

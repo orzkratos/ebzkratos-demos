@@ -11,10 +11,14 @@ init:
 	# orzkratos-srv-proto: 自动同步神器，让你的服务实现与 proto 接口始终保持一致
 	# 重要提醒: 使用前请务必备份代码或提交到 git，因为会直接修改源文件
 	go install github.com/orzkratos/orzkratos/cmd/orzkratos-srv-proto@latest
+	# wirekratos: Wire 依赖注入增强工具，支持 Kratos 工作区模式和框架标识
+	go install github.com/orzkratos/wirekratos/cmd/wirekratos@latest
 	# depbump: 一键升级所有依赖包，告别版本管理烦恼
 	go install github.com/go-mate/depbump/cmd/depbump@latest
 	# go-lint: 代码质量守护者，自动格式化 + 静态检查
 	go install github.com/go-mate/go-lint/cmd/go-lint@latest
+	# tago: 智能 Git tag 版本管理工具，支持语义化版本自动递增
+	go install github.com/go-mate/tago/cmd/tago@latest
 	# clang-format-batch: 批量格式化 proto 和 cpp 等多种语言代码
 	go install github.com/go-xlan/clang-format/cmd/clang-format-batch@latest
 	# protoc-gen-orzkratos-errors: proto 错误定义自动生成 Go 代码，提供错误码枚举和错误嵌套功能
