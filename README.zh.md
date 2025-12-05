@@ -1,7 +1,7 @@
 [![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/orzkratos/demokratos/release.yml?branch=main&label=BUILD)](https://github.com/orzkratos/demokratos/actions/workflows/release.yml?query=branch%3Amain)
 [![GoDoc](https://pkg.go.dev/badge/github.com/orzkratos/demokratos)](https://pkg.go.dev/github.com/orzkratos/demokratos)
 [![Coverage Status](https://img.shields.io/coveralls/github/orzkratos/demokratos/main.svg)](https://coveralls.io/github/orzkratos/demokratos?branch=main)
-[![Supported Go Versions](https://img.shields.io/badge/Go-1.25+-lightgrey.svg)](https://github.com/orzkratos/demokratos)
+[![Supported Go Versions](https://img.shields.io/badge/Go-1.25+-lightgrey.svg)](https://go.dev/)
 [![GitHub Release](https://img.shields.io/github/release/orzkratos/demokratos.svg)](https://github.com/orzkratos/demokratos/releases)
 [![Go Report Card](https://goreportcard.com/badge/github.com/orzkratos/demokratos)](https://goreportcard.com/report/github.com/orzkratos/demokratos)
 

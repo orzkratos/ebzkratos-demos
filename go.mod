@@ -8,7 +8,7 @@ require (
 	github.com/stretchr/testify v1.11.1
 	github.com/yyle88/eroticgo v0.0.5
 	github.com/yyle88/must v0.0.28
-	github.com/yyle88/osexec v0.0.34
+	github.com/yyle88/osexec v0.0.37
 	github.com/yyle88/osexistpath v0.0.18
 	github.com/yyle88/printgo v1.0.6
 	github.com/yyle88/rese v0.0.12
@@ -24,7 +24,7 @@ require (
 	github.com/yyle88/mutexmap v1.0.15 // indirect
 	github.com/yyle88/sure v0.0.42 // indirect
 	github.com/yyle88/syntaxgo v0.0.54 // indirect
-	github.com/yyle88/tern v0.0.9 // indirect
+	github.com/yyle88/tern v0.0.10 // indirect
 	github.com/yyle88/zaplog v0.0.27 // indirect
 	go.uber.org/multierr v1.11.0 // indirect
 	go.uber.org/zap v1.27.1 // indirect
