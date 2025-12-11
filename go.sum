@@ -44,8 +44,8 @@ github.com/yyle88/syntaxgo v0.0.54 h1:CBQA4HqLgo5Hoze/PDUsnDJ8J+raoYLa1OTH+sQtFw
 github.com/yyle88/syntaxgo v0.0.54/go.mod h1:3hNzb1C8zfk527A45181sFB/3gCl1hgIcDyTC1UqKzk=
 github.com/yyle88/tern v0.0.10 h1:2MvDoVyfIeEzskMpLE6B07dtRpSqI6LaeUD/mGuLW7o=
 github.com/yyle88/tern v0.0.10/go.mod h1:OHHE2G1gYaX4q0uu3sG9JAK9dBjHboxGcTXbRPVoGeQ=
-github.com/yyle88/zaplog v0.0.27 h1:Bd/XWeAeRDEsFdtHphEqPK+W3M9WNd/dzf5x6YXeSkY=
-github.com/yyle88/zaplog v0.0.27/go.mod h1:0BOxIR1lFh4vdiCyR5zuj4DmTFK36FbpjOWAdjMwSDU=
+github.com/yyle88/zaplog v0.0.28 h1:WLe3ErsaQyPvElyUM1TfG7JLf2carXn5dxlKb2Gw+c4=
+github.com/yyle88/zaplog v0.0.28/go.mod h1:swT5bfVndDjigcSx6BgPcKkD2SOHw0YQKmvT6UJZ3Mc=
 go.uber.org/goleak v1.3.0 h1:2K3zAYmnTNqV73imy9J1T3WC+gmCePx2hEGkimedGto=
 go.uber.org/goleak v1.3.0/go.mod h1:CoHD4mav9JJNrW/WLlf7HGZPjdw8EucARQHekz1X6bE=
 go.uber.org/multierr v1.11.0 h1:blXXJkSxSSfBVBlC76pxqeO+LN3aDfLQo+309xJstO0=

@@ -20,6 +20,10 @@ type Greeter struct {
 }
 
 // GreeterRepo is a Greater repo.
+// Use *ebzkratos.Ebz instead of error to get stack trace on failures
+//
+// GreeterRepo 是 Greeter 仓库接口
+// 使用 *ebzkratos.Ebz 替代 error 以便在失败时获取堆栈信息
 type GreeterRepo interface {
 	Save(context.Context, *Greeter) (*Greeter, *ebzkratos.Ebz)
 	Update(context.Context, *Greeter) (*Greeter, *ebzkratos.Ebz)

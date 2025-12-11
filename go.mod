@@ -25,7 +25,7 @@ require (
 	github.com/yyle88/sure v0.0.42 // indirect
 	github.com/yyle88/syntaxgo v0.0.54 // indirect
 	github.com/yyle88/tern v0.0.10 // indirect
-	github.com/yyle88/zaplog v0.0.27 // indirect
+	github.com/yyle88/zaplog v0.0.28 // indirect
 	go.uber.org/multierr v1.11.0 // indirect
 	go.uber.org/zap v1.27.1 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect

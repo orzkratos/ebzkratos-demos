@@ -30,10 +30,20 @@ func (r *greeterRepo) Update(ctx context.Context, g *biz.Greeter) (*biz.Greeter,
 	return g, nil
 }
 
+// FindByID finds a Greeter by ID
+// ebzkratos.New wraps Kratos error with stack trace at call site
+//
+// FindByID 根据 ID 查找 Greeter
+// ebzkratos.New 在调用处包装 Kratos 错误并附带堆栈信息
 func (r *greeterRepo) FindByID(context.Context, int64) (*biz.Greeter, *ebzkratos.Ebz) {
 	return nil, ebzkratos.New(v1.ErrorUnknown("NOT IMPLEMENTED"))
 }
 
+// ListByHello lists Greeters by hello string
+// ebzkratos.New wraps Kratos error with stack trace at call site
+//
+// ListByHello 根据 hello 字符串列出 Greeter
+// ebzkratos.New 在调用处包装 Kratos 错误并附带堆栈信息
 func (r *greeterRepo) ListByHello(context.Context, string) ([]*biz.Greeter, *ebzkratos.Ebz) {
 	return nil, ebzkratos.New(v1.ErrorUserNotFound("ERROR OCCURRED"))
 }

@@ -5,6 +5,7 @@ go 1.25.0
 require (
 	github.com/go-kratos/kratos/v2 v2.9.2
 	github.com/google/wire v0.7.0
+	github.com/orzkratos/ebzkratos v0.0.2
 	github.com/yyle88/done v1.0.28
 	github.com/yyle88/must v0.0.29
 	github.com/yyle88/rese v0.0.12
@@ -26,7 +27,7 @@ require (
 	github.com/gorilla/mux v1.8.1 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/yyle88/mutexmap v1.0.15 // indirect
-	github.com/yyle88/zaplog v0.0.27 // indirect
+	github.com/yyle88/zaplog v0.0.28 // indirect
 	go.opentelemetry.io/auto/sdk v1.2.1 // indirect
 	go.opentelemetry.io/otel v1.39.0 // indirect
 	go.opentelemetry.io/otel/metric v1.39.0 // indirect
